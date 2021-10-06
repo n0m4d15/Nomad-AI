@@ -5,7 +5,7 @@ This is a discord chatbot I built to talk to me and keep me inspired all the tim
 
 Use ```$hello``` to confirm the login of the bot was successful
 
-Use ```$inspire``` tp recieve quotes from the bot when in need
+Use ```$inspire``` tp receive quotes from the bot when in need
 
 Using keyword ```bot``` or even sad words will be autodetected by the bot and will always poke fun around the server
 
